@@ -1,6 +1,6 @@
 # Salut, sunt Florin Stănilă! 👋
 
-### ☁️ Viitor Cloud Solutions Architect | AI Enthusiast
+### ☁️ Cloud & AI Enthusiast
 Sunt un explorator al tehnologiilor Cloud, pasionat de modul în care Inteligența Artificială poate optimiza arhitecturile moderne.
 
 ---
