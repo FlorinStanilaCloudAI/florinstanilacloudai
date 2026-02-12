@@ -6,7 +6,7 @@ Sunt un explorator al tehnologiilor Cloud, pasionat de modul în care Inteligen�
 ---
 
 ### 🚀 Proiectul meu principal
-- **[Cloud AI Learning Hub](https://florinstanilacloudai.github.io/cloud-ai-learning-hub/)** - Un hub centralizat de resurse pentru AWS și AI, construit de la zero folosind asistență AI.
+- **[Cloud AI Learning Hub](https://florinstanilacloudai.github.io/cloud-ai-learning-hub/)** - Un hub centralizat de resurse pentru AWS și AI, construit de la zero folosind doar asistență AI.
 
 ### 🛠️ Tehnologii și Instrumente
 - **Cloud:** AWS
